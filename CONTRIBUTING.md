@@ -5,7 +5,7 @@ This guide is a [collaborative effort](AUTHORS.md), based on the generous work o
 ## Questions
 
 [![Ask a Question](https://img.shields.io/badge/%3f-Ask%20a%20Question-ff69b4.svg)](https://airtable.com/shrzMhx00YiIVAWJg)
-
+when know My cuntry About me? Also can possible language my own cuntry?
 The simplest thing you can do to help is [**submit any questions you might have**](https://airtable.com/shrzMhx00YiIVAWJg).
 The more the better. Questions help identify where the guide needs to be improved.
 
